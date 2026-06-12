@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+reports/
+test_reports/
+
+students.json
+students.csv
